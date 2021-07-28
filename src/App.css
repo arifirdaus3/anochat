@@ -1,0 +1,48 @@
+.label-enter {
+  display: block;
+
+  font-size: large;
+}
+.custom-input {
+  border-radius: 100px !important;
+  border-color: black !important;
+}
+.avatar {
+  max-width: 58px;
+  background-color: white;
+  margin-right: 1rem;
+}
+.c-bg-gradient {
+  background: #fc4a1a; /* fallback for old browsers */
+  background: -webkit-linear-gradient(
+    to right,
+    #fc4a1a,
+    #f7b733
+  ); /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(
+    to right,
+    #fc4a1a,
+    #f7b733
+  ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+.room {
+  border-radius: 0px !important;
+  height: 80vh;
+}
+.room-container {
+  min-height: 80vh;
+}
+.chat-container {
+  min-height: 70vh;
+}
+#root,
+html,
+body {
+  height: 100%;
+}
+.scroll-chat {
+  overflow-y: scroll;
+}
+.chat {
+  max-width: 75%;
+}
