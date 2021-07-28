@@ -1,3 +1,12 @@
+# Anochat
+Real time chat app using MERN Stack
+
+* Real Time Chat using Socket.io
+* Username
+* Rooms
+* Automatic delete room when empty
+* Search Room
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
